@@ -1,0 +1,17 @@
+# 构建产物
+build/
+**/build/
+
+# 日志与临时文件
+*.log
+*.orig
+*.bak
+
+# 实验报告和个人资料仅在本地保留，不公开
+*.doc
+*.docx
+*.pdf
+~$*
+local-private/
+截图/
+screenshots/
